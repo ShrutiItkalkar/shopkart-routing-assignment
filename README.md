@@ -21,4 +21,6 @@ Implement routing in this React application.
 ## Deployment URL
 
 Add your deployed URL here:
-(https://your-app.vercel.app)
+https://shopkart-routing-assignment-d2pp.vercel.app/
+
+https://github.com/ShrutiItkalkar/shopkart-routing-assignment.git
