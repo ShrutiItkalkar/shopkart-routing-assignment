@@ -4,11 +4,9 @@ function Navbar() {
   return (
     <nav>
       {/* TODO: Replace <a> with Link */}
-      
-      <a href="/">Home</a>
-      <a href="/about">About</a>
-      <a href="/contact">Contact</a>
-      
+      <Link to="/">ShopKart</Link>
+      <Link to="/cart">Cart</Link>
+      <Link to="/profile">Profile</Link>
     </nav>
   );
 }
