@@ -6,8 +6,8 @@ function Navbar() {
     <nav>
       {/* TODO: Replace <a> with Link */}
       <Link to="/">ShopKart</Link>
-      <Link to="/cart">Cart</Link>
-      <Link to="/profile">Profile</Link>
+      <Link to="/contact">Contact</Link>
+      <Link to="/about">About</Link>
     </nav>
   );
 }
